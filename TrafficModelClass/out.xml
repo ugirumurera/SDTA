@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<output_requests>
+
+  <output_request quantity = "lanegroups"  />
+  
+  <output_request quantity = "vehicle_events" />
+
+</output_requests>
+
